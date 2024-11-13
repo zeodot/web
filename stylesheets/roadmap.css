@@ -1,0 +1,131 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--pad: clamp(1rem, 2vw, 3rem);
+}
+
+.wrapper li img {
+	width: 100%;
+	display: block;
+}
+
+body {
+	margin: 0;
+	padding: var(--pad) 0;
+	font-family: "Open Sans", sans-serif;
+}
+
+a {
+	color: inherit;
+}
+
+.roadmap .wrapper {
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 0 var(--pad);
+}
+
+.roadmap .wrapper > * + * {
+	margin-top: var(--pad);
+}
+
+.roadmap .wrapper ol {
+	list-style: none;
+	padding: 1.5rem;
+	border: 0.1rem solid lightgrey;
+	columns: 16rem;
+	column-gap: calc(var(--pad) * 2);
+	column-rule: 0.2rem dotted turquoise;
+	border-radius: 0.5rem;
+}
+
+.roadmap .wrapper li {
+	--y: calc(100% - 2rem);
+	display: grid;
+	grid-template-columns: minmax(3.75em, auto) 1fr;
+	gap: 0 0.5em;
+	break-inside: avoid;
+  page-break-inside: avoid;
+	background: radial-gradient(circle at 30% var(--y), rgb(50 50 50), rgb(0 0 0));
+	color: white;
+	border-radius: 0.75rem;
+	overflow: hidden;
+	box-shadow: 0.25rem 0.25rem 0.5rem rgb(0 0 0 / 0.17)
+}
+
+.roadmap .wrapper li + li {
+	margin-top: 1rem;
+}
+
+.roadmap .wrapper li img {
+	grid-column: 1 / 3;
+	grid-row: 1;
+	aspect-ratio: 1.8;
+	object-fit: cover;
+}
+
+.roadmap .wrapper li::before {
+	counter-increment: list-item -1;
+	content: counter(list-item);
+	font-weight: 700;
+	font-size: 4.5em;
+	letter-spacing: -0.125em;
+	line-height: 1;
+	color: turquoise;
+	grid-column: 1;
+	grid-row: span 2;
+	align-self: end;
+	margin: 0 0 -0.15em -0.15em;
+}
+
+.roadmap .wrapper li span {
+	grid-column: 2;
+}
+
+.roadmap .wrapper li span:first-of-type {
+	font-size: 1.5em;
+	padding-top: 1rem;
+}
+
+.roadmap .wrapper li span:last-of-type {
+	font-style: italic;
+	padding-bottom: 1rem;
+}
+
+.roadmap .wrapper .divider {
+	background: lavender;
+	min-height: 6rem;
+	padding: var(--pad) 0;
+	width: 100vw;
+	margin-left: 50%;
+	transform: translate3d(-50%, 0, 0);
+}
+
+.roadmap .wrapper .divider a {
+	text-decoration: none;
+	display: inline-block;
+	background: turquoise;
+	padding: 0.5rem 1rem;
+	border-radius: 0.5rem;
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+
+.roadmap .wrapper h1 {
+	font-size: clamp(1.5rem, 1vw + 2rem, 3.5rem);
+}
+
+.roadmap .wrapper h2 {
+	font-size: clamp(1.3rem, 1vw + 1.6rem, 3rem);
+	margin: 0;
+}
+
+.roadmap .wrapper .divider * + * {
+	margin: 1.5rem 0 0 0;
+}
+
+.roadmap .wrapper .divider p {
+	font-size: 1.4rem;
+}

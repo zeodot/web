@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zeodot.com/</loc>
-         <lastmod>2024-11-10</lastmod>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/contact/</loc>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/Roadmap/</loc>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/blog/</loc>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/blog/2024/01/31/zeodot-test-blog-page/</loc>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/blog/2024/01/31/zeodot-test-blog-page/</loc>
+         <lastmod>2024-11-13</lastmod>
     </url>
     <url>
          <loc>https://zeodot.com/getting-started/</loc>
-         <lastmod>2024-11-10</lastmod>
+         <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+         <loc>https://zeodot.com/blog/archive/2024/</loc>
+         <lastmod>2024-11-13</lastmod>
     </url>
 </urlset>

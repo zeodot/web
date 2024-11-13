@@ -5,7 +5,7 @@
   --md-primary-fg-color--dark: #6241D9;
   --md-primary-fg-color--light: #8777F2;
   --nav-item-color: #4d4d4d;
-  --md-footer-bg-color: #081729;
+  --md-footer-bg-color: black;
   --md-accent-fg-color: #C2BBF2;
 }
 
@@ -187,7 +187,7 @@ border-radius: 0.7rem 0 0 0 ;
 }
 
 .md-banner {
-  background: #fff5b5;
+  background: black;
 }
 
 .md-banner .versionwarning h1 {
@@ -199,7 +199,6 @@ border-radius: 0.7rem 0 0 0 ;
 }
 
 .md-banner a {
-  color: blue;
   text-decoration: underline;
 }
 
@@ -359,7 +358,7 @@ border-radius: 0.7rem 0 0 0 ;
 /* Tame the footer and make the prev/next stand out */
 .md-footer {
   color: var(--md-typeset-a-color);
-  background-color: var(--md-primary-fg-color--dark);
+  background-color: var(--md-footer-bg-color);
 }
 
 .md-footer .md-footer-copyright {
