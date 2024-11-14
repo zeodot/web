@@ -54,7 +54,7 @@
 .why-serverless-container, .need-to-know-more-container,
 .zeodot-components-container, .trying-it-all-container,
 .whats-next-container, .whats-next-container,
-.case-studies-container, .cncf-notice-container {
+.case-studies-container, .zeodot-social-container {
   text-align: center;
   padding: 4em 3em;
 }
@@ -820,11 +820,11 @@ position: relative;
 }
 
 /* cncf notice container css */
-.cncf-notice-container {
+.zeodot-social-container {
   background-color: white;
 }
 
-.cncf-notice-container h3 {
+.zeodot-social-container h3 {
   font-weight: bold;
   color: var(--nav-item-color);
   margin-top: 0;
