@@ -578,6 +578,18 @@ Css for roadmap page
 }
 
 
+.md-typeset__table  {
+  table-layout:fixed;
+  min-width: 100%;
+  display: table;
+}
+
+
+.md-typeset__table table {
+  display: table !important;
+}
+
+
 
 
 
