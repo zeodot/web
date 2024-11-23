@@ -215,6 +215,19 @@ border-radius: 0.7rem 0 0 0 ;
   border-radius: 0.7rem;
 }
 
+.md-typeset .md-button.md-button-socialpage{
+
+  background-color: var(--md-primary-fg-color--light);
+  border-color: var(--md-primary-fg-color--light);
+}
+
+.md-typeset .md-button.md-button-socialpage:hover{
+
+  background-color: var(--md-primary-fg-color--light);
+  opacity: 50%;
+
+}
+
 /* Giving h4 tag distinctive style because it is non-differntial with bold text */
 .md-typeset h4 {
   font-size: .9rem;
