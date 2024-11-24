@@ -212,11 +212,15 @@ border-radius: 0.7rem 0 0 0 ;
 }
 
 .md-typeset .md-button {
+  
+  color:var(--md-primary-fg-color);;
   border-radius: 0.7rem;
+  border-color: var(--md-primary-fg-color--dark);
+  background-color: var(--md-primary-fg-color--light);
 }
 
 .md-typeset .md-button.md-button-socialpage{
-
+  color: white;
   background-color: var(--md-primary-fg-color--light);
   border-color: var(--md-primary-fg-color--light);
 }
