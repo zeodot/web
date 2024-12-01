@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "url": "https://www.hackerearth.com/challenges/",
+            "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
+            "challengesOngoing": [
+                {
+                    "title": "Tem-(E)-Thon",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/tem-e-thon/",
+                    "noOfRegistrations": "\n                     2357\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1733682540"
+                },
+                {
+                    "title": "HACKSTORM: INTEL\u00ae AI PC EDITION",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/intel-hackathon/",
+                    "noOfRegistrations": "\n                     3791\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1733682540"
+                },
+                {
+                    "title": "Stylumia NXT Hackathon 2024",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/stylumia-nxt-hackathon-2024/",
+                    "noOfRegistrations": "\n                     851\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1734287340"
+                },
+                {
+                    "title": "TechForSociety",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/nasscom-hackathon-2/",
+                    "noOfRegistrations": "\n                     312\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1734719100"
+                },
+                {
+                    "title": "Certified Hedera Developer",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/certified-hedera-builder-get-certified-2/",
+                    "noOfRegistrations": "\n                     280\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1735669500"
+                },
+                {
+                    "title": "Analog Kairos Hackathon - 2",
+                    "url": "https://analog-part2.hackerearth.com/",
+                    "noOfRegistrations": "\n                     358\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1736755140"
+                }
+            ],
+            "challengesUpcoming": [
+                {
+                    "title": "Fractal Data Science Hiring Challenge",
+                    "url": "/challenges/hiring/fractal-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec  6, 12:30 PM UTC (UTC)"
+                },
+                {
+                    "title": "Fractal Azure Hiring Challenge 2024",
+                    "url": "/challenges/hiring/fractal-azure-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec  6, 12:30 PM UTC (UTC)"
+                },
+                {
+                    "title": "CODE THE CHANGE CHALLENGE",
+                    "url": "/challenges/competitive/metlife-test/",
+                    "noOfRegistrations": "\n                     4969\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Dec  6, 12:30 PM UTC (UTC)"
+                },
+                {
+                    "title": "Plivo Build-a-Thon - Fullstack Hiring Challenge",
+                    "url": "/challenges/hiring/plivo-build-a-thon/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec  6, 12:30 PM UTC (UTC)"
+                },
+                {
+                    "title": "Global Scholar Challenge",
+                    "url": "/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     997\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)"
+                },
+                {
+                    "title": "CRACK<A>CAREER",
+                    "url": "/challenges/competitive/crack-a-career-heycoach/",
+                    "noOfRegistrations": "\n                     844\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Dec 21, 12:30 PM UTC (UTC)"
+                }
+            ],
+            "#error": false,
+            "#debug": {
+                "requestId": "WnjqkcABr8VVCez",
+                "url": "https://www.hackerearth.com/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/challenges/",
+                "method": "GET",
+                "retryCount": 0,
+                "errorMessages": [],
+                "statusCode": 200
+            }
+        }
+    ]
+}
