@@ -7,28 +7,28 @@
                 {
                     "title": "Tem-(E)-Thon",
                     "url": "https://www.hackerearth.com/challenges/hackathon/tem-e-thon/",
-                    "noOfRegistrations": "\n                     2398\n                ",
+                    "noOfRegistrations": "\n                     2469\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1733682540"
                 },
                 {
                     "title": "HACKSTORM: INTEL\u00ae AI PC EDITION",
                     "url": "https://www.hackerearth.com/challenges/hackathon/intel-hackathon/",
-                    "noOfRegistrations": "\n                     3899\n                ",
+                    "noOfRegistrations": "\n                     4124\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1733682540"
                 },
                 {
                     "title": "Stylumia NXT Hackathon 2024",
                     "url": "https://www.hackerearth.com/challenges/hackathon/stylumia-nxt-hackathon-2024/",
-                    "noOfRegistrations": "\n                     1014\n                ",
+                    "noOfRegistrations": "\n                     1121\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1734287340"
                 },
                 {
                     "title": "TechForSociety",
                     "url": "https://www.hackerearth.com/challenges/hackathon/nasscom-hackathon-2/",
-                    "noOfRegistrations": "\n                     344\n                ",
+                    "noOfRegistrations": "\n                     367\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1734719100"
                 },
@@ -42,7 +42,7 @@
                 {
                     "title": "Analog Kairos Hackathon - 2",
                     "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                     368\n                ",
+                    "noOfRegistrations": "\n                     379\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736755140"
                 }
@@ -65,7 +65,7 @@
                 {
                     "title": "CODE THE CHANGE CHALLENGE",
                     "url": "/challenges/competitive/metlife-test/",
-                    "noOfRegistrations": "\n                     5641\n                ",
+                    "noOfRegistrations": "\n                     5952\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Dec  6, 12:30 PM UTC (UTC)"
                 },
@@ -79,14 +79,14 @@
                 {
                     "title": "Global Scholar Challenge",
                     "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                     1087\n                ",
+                    "noOfRegistrations": "\n                     1129\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)"
                 },
                 {
                     "title": "CRACK<A>CAREER",
                     "url": "/challenges/competitive/crack-a-career-heycoach/",
-                    "noOfRegistrations": "\n                     878\n                ",
+                    "noOfRegistrations": "\n                     914\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Dec 21, 12:30 PM UTC (UTC)"
                 }
@@ -97,11 +97,8 @@
                 "url": "https://www.hackerearth.com/challenges/",
                 "loadedUrl": "https://www.hackerearth.com/challenges/",
                 "method": "GET",
-                "retryCount": 2,
-                "errorMessages": [
-                    "Error: Navigation timed out after 60 seconds.\n    at handleRequestTimeout (/home/myuser/node_modules/@crawlee/core/crawlers/crawler_utils.js:13:11)\n    at PuppeteerCrawler._handleNavigationTimeout (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:360:46)\n    at PuppeteerCrawler._handleNavigation (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:333:24)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:259:13)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/puppeteer/internals/puppeteer-crawler.js:109:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)",
-                    "Error: Navigation timed out after 60 seconds.\n    at handleRequestTimeout (/home/myuser/node_modules/@crawlee/core/crawlers/crawler_utils.js:13:11)\n    at PuppeteerCrawler._handleNavigationTimeout (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:360:46)\n    at PuppeteerCrawler._handleNavigation (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:333:24)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:259:13)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/puppeteer/internals/puppeteer-crawler.js:109:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)"
-                ],
+                "retryCount": 0,
+                "errorMessages": [],
                 "statusCode": 200
             }
         }
