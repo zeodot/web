@@ -12,6 +12,7 @@
         "row 1",
         "row 1",
         "row 1",
+        "row 1",
         "row 1"
     ],
     "data": [
@@ -19,6 +20,11 @@
             "AI Mathematical Olympiad - Progress Prize 2",
             "https://www.kaggle.com/competitions/86023",
             "04/01/2025"
+        ],
+        [
+            "LLMs - You Can't Please Them All",
+            "https://www.kaggle.com/competitions/83035",
+            "03/04/2025"
         ],
         [
             "FIDE & Google Efficient Chess AI Challenge",
