@@ -1272,6 +1272,20 @@
 
     var data = {"data" : [...hackerearth_data, ...kaggle_data]}
 
+      // Shuffle function (Fisher-Yates algorithm)
+    //function shuffleArray(array) {
+     // for (let i = array.length - 1; i > 0; i--) {
+      //  const j = Math.floor(Math.random() * (i + 1));
+      //  [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+      //  }
+      //  data = {"data" : array}
+      //}
+
+      // Shuffle the rowData
+    // shuffleArray(data["data"]);
+
+
+
     var gridOptions = {
       columnDefs: [
         { 
@@ -1289,7 +1303,7 @@
         { headerName: "Category", field: "challengeType" },
         { headerName: "Enteries/Teams", field: "noOfRegistrations" },
         { headerName: "Tags", field: "tags" },
-        { headerName: "Deadline", field: "numberBeforeMinus" },
+        { headerName: "Deadline", field: "numberBeforeMinus", sort: "desc" },
         { headerName: "Reward", field: "reward" }
       ],
       rowData : data["data"],
