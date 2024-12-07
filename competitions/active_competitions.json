@@ -1,65 +1,126 @@
 {
-    "columns": [
-        "title",
-        "url",
-        "deadline"
-    ],
-    "index": [
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1",
-        "row 1"
-    ],
-    "data": [
-        [
-            "AI Mathematical Olympiad - Progress Prize 2",
-            "https://www.kaggle.com/competitions/86023",
-            "04/01/2025"
-        ],
-        [
-            "LLMs - You Can't Please Them All",
-            "https://www.kaggle.com/competitions/83035",
-            "03/04/2025"
-        ],
-        [
-            "FIDE & Google Efficient Chess AI Challenge",
-            "https://www.kaggle.com/competitions/86524",
-            "02/11/2025"
-        ],
-        [
-            "CZII - CryoET Object Identification",
-            "https://www.kaggle.com/competitions/84969",
-            "02/05/2025"
-        ],
-        [
-            "WSDM Cup - Multilingual Chatbot Arena",
-            "https://www.kaggle.com/competitions/86946",
-            "02/03/2025"
-        ],
-        [
-            "Santa 2024 - The Perplexity Permutation Puzzle",
-            "https://www.kaggle.com/competitions/88046",
-            "01/31/2025"
-        ],
-        [
-            "Jane Street Real-Time Market Data Forecasting",
-            "https://www.kaggle.com/competitions/84493",
-            "01/13/2025"
-        ],
-        [
-            "Child Mind Institute \u2014 Problematic Internet Use",
-            "https://www.kaggle.com/competitions/81933",
-            "12/19/2024"
-        ],
-        [
-            " Eedi - Mining Misconceptions in Mathematics",
-            "https://www.kaggle.com/competitions/82695",
-            "12/12/2024"
-        ]
+    "challengesOngoing": [
+        {
+            "title": "AI Mathematical Olympiad - Progress Prize 2",
+            "url": "https://www.kaggle.com/competitions/86023",
+            "noOfRegistrations": 672,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "04/01/2025",
+            "reward": "2,117,152 Usd",
+            "tags": [
+                "nlp",
+                "mathematics",
+                "accuracy score"
+            ]
+        },
+        {
+            "title": "LLMs - You Can't Please Them All",
+            "url": "https://www.kaggle.com/competitions/83035",
+            "noOfRegistrations": 173,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "03/04/2025",
+            "reward": "50,000 Usd",
+            "tags": [
+                "statistical analysis",
+                "text generation",
+                "custom metric"
+            ]
+        },
+        {
+            "title": "FIDE & Google Efficient Chess AI Challenge",
+            "url": "https://www.kaggle.com/competitions/86524",
+            "noOfRegistrations": 596,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "02/11/2025",
+            "reward": "50,000 Usd",
+            "tags": [
+                "board games",
+                "reinforcement learning",
+                "simulations",
+                "custom metric"
+            ]
+        },
+        {
+            "title": "CZII - CryoET Object Identification",
+            "url": "https://www.kaggle.com/competitions/84969",
+            "noOfRegistrations": 313,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "02/05/2025",
+            "reward": "75,000 Usd",
+            "tags": [
+                "biology",
+                "image",
+                "object detection",
+                "custom metric"
+            ]
+        },
+        {
+            "title": "WSDM Cup - Multilingual Chatbot Arena",
+            "url": "https://www.kaggle.com/competitions/86946",
+            "noOfRegistrations": 260,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "02/03/2025",
+            "reward": "50,000 Usd",
+            "tags": [
+                "languages",
+                "text conversation",
+                "accuracy score"
+            ]
+        },
+        {
+            "title": "Santa 2024 - The Perplexity Permutation Puzzle",
+            "url": "https://www.kaggle.com/competitions/88046",
+            "noOfRegistrations": 674,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "01/31/2025",
+            "reward": "50,000 Usd",
+            "tags": [
+                "optimization",
+                "holidays and cultural events",
+                "custom metric"
+            ]
+        },
+        {
+            "title": "Jane Street Real-Time Market Data Forecasting",
+            "url": "https://www.kaggle.com/competitions/84493",
+            "noOfRegistrations": 2137,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "01/13/2025",
+            "reward": "120,000 Usd",
+            "tags": [
+                "finance",
+                "tabular",
+                "regression",
+                "custom metric"
+            ]
+        },
+        {
+            "title": "Child Mind Institute \u2014 Problematic Internet Use",
+            "url": "https://www.kaggle.com/competitions/81933",
+            "noOfRegistrations": 3077,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "12/19/2024",
+            "reward": "60,000 Usd",
+            "tags": [
+                "health",
+                "time series analysis",
+                "multiclass classification",
+                "cohen kappa score"
+            ]
+        },
+        {
+            "title": " Eedi - Mining Misconceptions in Mathematics",
+            "url": "https://www.kaggle.com/competitions/82695",
+            "noOfRegistrations": 1404,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "12/12/2024",
+            "reward": "55,000 Usd",
+            "tags": [
+                "education",
+                "nlp",
+                "primary and secondary schools",
+                "map@{k}"
+            ]
+        }
     ]
 }
