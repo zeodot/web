@@ -96,6 +96,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -791,6 +796,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -1168,6 +1175,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -1190,9 +1199,8 @@
   
 
 
-  <h1>Overview</h1>
-
-<div id="myGrid" style="height: 400px;" class="ag-theme-alpine"></div>
+<h1 id="_1"></h1>
+<div id="myGrid" style="height: 100%;" class="ag-theme-alpine"></div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
@@ -1221,6 +1229,9 @@
         challenge.reward = "not specified";
       }
 
+      if (!challenge.url.includes("hackerearth.com")) {
+        challenge.url = "https://hackerearth.com" + challenge.url; // Add base URL if not already present
+      }
 
       let timestamp = parseInt(challenge.numberBeforeMinus) * 1000;
 
@@ -1274,13 +1285,28 @@
             return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
             }
         },
+        { headerName: "Platform", field: "platform" },
         { headerName: "Category", field: "challengeType" },
         { headerName: "Enteries/Teams", field: "noOfRegistrations" },
         { headerName: "Tags", field: "tags" },
         { headerName: "Deadline", field: "numberBeforeMinus" },
         { headerName: "Reward", field: "reward" }
       ],
-      rowData : data["data"]
+      rowData : data["data"],
+      domLayout: "autoHeight",
+      defaultColDef: {
+        filter: true
+      },
+      // Grid Options & Callbacks
+
+      pagination: true,
+      rowSelection: { mode: "multiRow", headerCheckbox: false },
+      onSelectionChanged: (event) => {
+          console.log("Row Selection Event!");
+        },
+      onCellValueChanged: (event) => {
+          console.log(`New Cell Value: ${event.value}`);
+        },
     };
 
     new agGrid.Grid(document.getElementById('myGrid'), gridOptions);
