@@ -1195,7 +1195,7 @@ for (i=0; i<divval.length; i++ ) {
 <script>
       document.addEventListener('DOMContentLoaded', function () {
             // Retrieve course completion statuses from local storage
-            const courseStatuses = JSON.parse(localStorage.getItem('courseStatuses')) || {};
+            const courseStatuses_DS = JSON.parse(localStorage.getItem('courseStatuses_DS')) || {};
 
             // Get all course elements
             const courseElements = document.querySelectorAll('#rd-start svg a div div div');
@@ -1209,7 +1209,7 @@ for (i=0; i<divval.length; i++ ) {
 
 
             // const startElement = document.getElementById('rd-start-status');
-            // var completedCourse = Object.keys(courseStatuses).length
+            // var completedCourse = Object.keys(courseStatuses_DS).length
             // var totalCourse = courseElements.length
             // const textnode = document.createTextNode("total "+ completedCourse.toString() + " Courses Completed out of " +  totalCourse.toString() +"");
 
@@ -1218,7 +1218,7 @@ for (i=0; i<divval.length; i++ ) {
             // Iterate through each course element
             courseElements.forEach(function (courseDiv) {
                 // Set the completed class based on the stored status
-                if (courseStatuses[courseDiv.id] === true) {
+                if (courseStatuses_DS[courseDiv.id] === true) {
                     courseDiv.classList.add('completed');
                     completedCount++;
                     remainingCount--;
@@ -1230,8 +1230,8 @@ for (i=0; i<divval.length; i++ ) {
                     courseDiv.classList.toggle('completed');
 
                     // Update local storage with the new completion status
-                    courseStatuses[courseDiv.id] = courseDiv.classList.contains('completed');
-                    localStorage.setItem('courseStatuses', JSON.stringify(courseStatuses));
+                    courseStatuses_DS[courseDiv.id] = courseDiv.classList.contains('completed');
+                    localStorage.setItem('courseStatuses_DS', JSON.stringify(courseStatuses_DS));
 
                      // Update completion counters and display
                     completedCount = document.querySelectorAll('.completed').length;
@@ -1444,6 +1444,7 @@ for (i=0; i<divval.length; i++ ) {
   <!-- For now, load Jquery and Bootstrap because the cookie warning (built from the hugo-based website) uses them -->
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  
 
   </body>
 </html>
