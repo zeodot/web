@@ -1215,9 +1215,33 @@
 
       ]);
 
+    var h1 = data2["data"][0]["challengesOngoing"]
+    var h2 = data2["data"][0]["challengesUpcoming"]
 
-    var hackerearth_data = data2["data"][0]["challengesOngoing"]
+    var hackerearth_data = [...h1, ...h2]
+
     var kaggle_data = data1["challengesOngoing"]
+
+    keywords = [
+    "ai", "artificial intelligence", "machine learning", "ml", "deep learning", 
+    "neural networks", "data science", "python", "nlp", "natural language processing", 
+    "computer vision", "reinforcement learning", "computer science", "data mining", 
+    "big data", "llm", "large language model", "chatbot", "automation", 
+    "predictive analytics", "statistical learning", "data analytics", "cognitive computing", 
+    "analytics", "data visualization", "speech recognition", "image recognition", "Azure"
+    ]
+
+    // Function to filter challenges based on the keywords
+      filterChallenges = (data, keywords) => {
+      return data.filter(challenge =>
+      keywords.some(keyword => {
+      const regex = new RegExp(`\\b${keyword}\\b`, 'i'); // Create a case-insensitive regex with word boundaries
+      return regex.test(challenge.title);
+       })
+      );
+    };
+
+    hackerearth_data = filterChallenges(hackerearth_data, keywords)
 
     // Convert the numberBeforeMinus from Unix to Date
     hackerearth_data.forEach(challenge => {
@@ -1232,8 +1256,25 @@
       if (!challenge.url.includes("hackerearth.com")) {
         challenge.url = "https://hackerearth.com" + challenge.url; // Add base URL if not already present
       }
+      var timestamp = "";
 
-      let timestamp = parseInt(challenge.numberBeforeMinus) * 1000;
+      if(!isNaN(challenge.numberBeforeMinus) && (challenge.numberBeforeMinus.length === 10 || challenge.numberBeforeMinus.length === 13)){
+
+      timestamp = parseInt(challenge.numberBeforeMinus) * 1000;
+      console.log("try")
+      console.log(timestamp)
+
+
+      }
+      else{
+
+      timestamp = challenge.numberBeforeMinus.split(",")[0] + " 2024";
+      console.log("catch")
+      console.log(timestamp)
+      }
+
+
+
 
       // Create a new Date object from the timestamp
       let date = new Date(timestamp);
