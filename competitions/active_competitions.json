@@ -3,7 +3,7 @@
         {
             "title": "AI Mathematical Olympiad - Progress Prize 2",
             "url": "https://www.kaggle.com/competitions/86023",
-            "noOfRegistrations": 726,
+            "noOfRegistrations": 733,
             "challengeType": "Featured",
             "numberBeforeMinus": "04/01/2025",
             "reward": "2,117,152 Usd",
@@ -17,7 +17,7 @@
         {
             "title": "Konwinski Prize",
             "url": "https://www.kaggle.com/competitions/84795",
-            "noOfRegistrations": 0,
+            "noOfRegistrations": 17,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/12/2025",
             "reward": "1,225,000 Usd",
@@ -30,7 +30,7 @@
         {
             "title": "NeurIPS 2024 - Lux AI Season 3",
             "url": "https://www.kaggle.com/competitions/86411",
-            "noOfRegistrations": 56,
+            "noOfRegistrations": 72,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/10/2025",
             "reward": "50,000 Usd",
@@ -45,7 +45,7 @@
         {
             "title": "LLMs - You Can't Please Them All",
             "url": "https://www.kaggle.com/competitions/83035",
-            "noOfRegistrations": 298,
+            "noOfRegistrations": 319,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/04/2025",
             "reward": "50,000 Usd",
@@ -59,7 +59,7 @@
         {
             "title": "FIDE & Google Efficient Chess AI Challenge",
             "url": "https://www.kaggle.com/competitions/86524",
-            "noOfRegistrations": 651,
+            "noOfRegistrations": 657,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/11/2025",
             "reward": "50,000 Usd",
@@ -74,7 +74,7 @@
         {
             "title": "CZII - CryoET Object Identification",
             "url": "https://www.kaggle.com/competitions/84969",
-            "noOfRegistrations": 355,
+            "noOfRegistrations": 362,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/05/2025",
             "reward": "75,000 Usd",
@@ -89,7 +89,7 @@
         {
             "title": "WSDM Cup - Multilingual Chatbot Arena",
             "url": "https://www.kaggle.com/competitions/86946",
-            "noOfRegistrations": 321,
+            "noOfRegistrations": 327,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/03/2025",
             "reward": "50,000 Usd",
@@ -103,7 +103,7 @@
         {
             "title": "Santa 2024 - The Perplexity Permutation Puzzle",
             "url": "https://www.kaggle.com/competitions/88046",
-            "noOfRegistrations": 749,
+            "noOfRegistrations": 768,
             "challengeType": "Featured",
             "numberBeforeMinus": "01/31/2025",
             "reward": "50,000 Usd",
@@ -117,7 +117,7 @@
         {
             "title": "Jane Street Real-Time Market Data Forecasting",
             "url": "https://www.kaggle.com/competitions/84493",
-            "noOfRegistrations": 2307,
+            "noOfRegistrations": 2352,
             "challengeType": "Featured",
             "numberBeforeMinus": "01/13/2025",
             "reward": "120,000 Usd",
@@ -132,7 +132,7 @@
         {
             "title": "Child Mind Institute \u2014 Problematic Internet Use",
             "url": "https://www.kaggle.com/competitions/81933",
-            "noOfRegistrations": 3303,
+            "noOfRegistrations": 3336,
             "challengeType": "Featured",
             "numberBeforeMinus": "12/19/2024",
             "reward": "60,000 Usd",
@@ -141,21 +141,6 @@
                 "time series analysis",
                 "multiclass classification",
                 "cohen kappa score"
-            ],
-            "platform": "Kaggle"
-        },
-        {
-            "title": " Eedi - Mining Misconceptions in Mathematics",
-            "url": "https://www.kaggle.com/competitions/82695",
-            "noOfRegistrations": 1453,
-            "challengeType": "Featured",
-            "numberBeforeMinus": "12/12/2024",
-            "reward": "55,000 Usd",
-            "tags": [
-                "education",
-                "nlp",
-                "primary and secondary schools",
-                "map@{k}"
             ],
             "platform": "Kaggle"
         }
