@@ -2,18 +2,116 @@
     "data": [
         {
             "url": "https://www.hackerearth.com/challenges/",
-            "pageTitle": "HackerEarth Guardian",
-            "challengesOngoing": [],
-            "challengesUpcoming": [],
+            "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
+            "challengesOngoing": [
+                {
+                    "title": "Stylumia NXT Hackathon 2024",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/stylumia-nxt-hackathon-2024/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1734287340",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "CODE THE CHANGE CHALLENGE",
+                    "url": "/pt-br/challenges/competitive/metlife-test/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "1734287340",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "HACKSTORM: INTEL\u00ae AI PC EDITION",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/intel-hackathon/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1734373740",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "TechForSociety",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/nasscom-hackathon-2/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1734719100",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Certified Hedera Developer",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/certified-hedera-builder-get-certified-2/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1735669500",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Analog Kairos Hackathon - 2",
+                    "url": "https://analog-part2.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1736755140",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Nx Venue Innovation Hackathon",
+                    "url": "https://nxvenue.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1737791700",
+                    "platform": "Hackerearth"
+                }
+            ],
+            "challengesUpcoming": [
+                {
+                    "title": "Fractal Data Science Hiring Challenge",
+                    "url": "/pt-br/challenges/hiring/fractal-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec 14, 03:30 AM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Fractal Azure Hiring Challenge 2024",
+                    "url": "/pt-br/challenges/hiring/fractal-azure-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec 14, 03:30 AM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Global Scholar Challenge",
+                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Plivo Build-a-Thon - Fullstack Hiring Challenge",
+                    "url": "/pt-br/challenges/hiring/plivo-build-a-thon/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "CRACK<A>CAREER",
+                    "url": "/pt-br/challenges/competitive/crack-a-career-heycoach/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Dec 21, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                }
+            ],
             "#error": false,
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
-                "statusCode": 471
+                "statusCode": 200
             }
         }
     ]
