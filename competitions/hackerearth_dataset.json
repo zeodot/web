@@ -6,56 +6,72 @@
             "challengesOngoing": [
                 {
                     "title": "Stylumia NXT Hackathon 2024",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/stylumia-nxt-hackathon-2024/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/stylumia-nxt-hackathon-2024/",
+                    "noOfRegistrations": "\n                     2198\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1734287340",
                     "platform": "Hackerearth"
                 },
                 {
+                    "title": "Fractal Data Science Hiring Challenge",
+                    "url": "/challenges/hiring/fractal-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "1734287340",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Fractal Azure Hiring Challenge 2024",
+                    "url": "/challenges/hiring/fractal-azure-hiring-challenge/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "1734287340",
+                    "platform": "Hackerearth"
+                },
+                {
                     "title": "CODE THE CHANGE CHALLENGE",
-                    "url": "/pt-br/challenges/competitive/metlife-test/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "/challenges/competitive/metlife-test/",
+                    "noOfRegistrations": "\n                     2250\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1734287340",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "HACKSTORM: INTEL\u00ae AI PC EDITION",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/intel-hackathon/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/intel-hackathon/",
+                    "noOfRegistrations": "\n                     5169\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1734373740",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "TechForSociety",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/nasscom-hackathon-2/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/nasscom-hackathon-2/",
+                    "noOfRegistrations": "\n                     1305\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1734719100",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Certified Hedera Developer",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/certified-hedera-builder-get-certified-2/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/certified-hedera-builder-get-certified-2/",
+                    "noOfRegistrations": "\n                     546\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1735669500",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://analog-part2.hackerearth.com/",
+                    "noOfRegistrations": "\n                     627\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736755140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://nxvenue.hackerearth.com/",
+                    "noOfRegistrations": "\n                     9\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
@@ -63,32 +79,16 @@
             ],
             "challengesUpcoming": [
                 {
-                    "title": "Fractal Data Science Hiring Challenge",
-                    "url": "/pt-br/challenges/hiring/fractal-hiring-challenge/",
-                    "noOfRegistrations": "\n                     \n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "Dec 14, 03:30 AM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "Fractal Azure Hiring Challenge 2024",
-                    "url": "/pt-br/challenges/hiring/fractal-azure-hiring-challenge/",
-                    "noOfRegistrations": "\n                     \n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "Dec 14, 03:30 AM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
                     "title": "Global Scholar Challenge",
-                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     4929\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Plivo Build-a-Thon - Fullstack Hiring Challenge",
-                    "url": "/pt-br/challenges/hiring/plivo-build-a-thon/",
+                    "url": "/challenges/hiring/plivo-build-a-thon/",
                     "noOfRegistrations": "\n                     \n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Dec 20, 12:30 PM UTC (UTC)",
@@ -96,8 +96,8 @@
                 },
                 {
                     "title": "CRACK<A>CAREER",
-                    "url": "/pt-br/challenges/competitive/crack-a-career-heycoach/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "/challenges/competitive/crack-a-career-heycoach/",
+                    "noOfRegistrations": "\n                     1583\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Dec 21, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
@@ -107,7 +107,7 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
