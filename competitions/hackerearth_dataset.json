@@ -6,48 +6,48 @@
             "challengesOngoing": [
                 {
                     "title": "TechForSociety",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/nasscom-hackathon-2/",
-                    "noOfRegistrations": "\n                     2582\n                ",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/nasscom-hackathon-2/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1735323900",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "CRACK<A>CAREER",
-                    "url": "/challenges/competitive/crack-a-career-heycoach/",
-                    "noOfRegistrations": "\n                     265\n                ",
+                    "url": "/pt-br/challenges/competitive/crack-a-career-heycoach/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1735496940",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Certified Hedera Developer",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/certified-hedera-builder-get-certified-2/",
-                    "noOfRegistrations": "\n                     1928\n                ",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/certified-hedera-builder-get-certified-2/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1735669500",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                     843\n                ",
+                    "url": "https://analog-part2.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736755140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/",
-                    "noOfRegistrations": "\n                     58\n                ",
+                    "url": "https://nxvenue.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Global Scholar Challenge",
-                    "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                     182\n                ",
+                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
@@ -56,7 +56,7 @@
             "challengesUpcoming": [
                 {
                     "title": "Scan, Pay and Go!",
-                    "url": "/challenges/hiring/scan-pay-go-2024/",
+                    "url": "/pt-br/challenges/hiring/scan-pay-go-2024/",
                     "noOfRegistrations": "\n                     As per market standards\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Jan  6, 12:30 PM UTC (UTC)",
@@ -67,7 +67,7 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
