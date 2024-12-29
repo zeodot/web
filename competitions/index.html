@@ -1268,9 +1268,15 @@
       }
       else{
 
+      if(!isNaN(challenge.numberBeforeMinus)){
+
       timestamp = challenge.numberBeforeMinus.split(",")[0] + " 2024";
       console.log("catch")
       console.log(timestamp)
+      }
+      else {
+        timestamp = "NA"
+      }
       }
 
 
