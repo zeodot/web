@@ -6,15 +6,15 @@
             "challengesOngoing": [
                 {
                     "title": "CRACK<A>CAREER",
-                    "url": "/challenges/competitive/crack-a-career-heycoach/",
-                    "noOfRegistrations": "\n                     364\n                ",
+                    "url": "/pt-br/challenges/competitive/crack-a-career-heycoach/",
+                    "noOfRegistrations": "\n                     450\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1735496940",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Certified Hedera Developer",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/certified-hedera-builder-get-certified-2/",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/certified-hedera-builder-get-certified-2/",
                     "noOfRegistrations": "\n                     1928\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1735669500",
@@ -22,32 +22,32 @@
                 },
                 {
                     "title": "TechForSociety",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/nasscom-hackathon-2/",
-                    "noOfRegistrations": "\n                     2740\n                ",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/nasscom-hackathon-2/",
+                    "noOfRegistrations": "\n                     2783\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1735928700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                     881\n                ",
+                    "url": "https://analog-part2.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                     893\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736755140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/",
-                    "noOfRegistrations": "\n                     66\n                ",
+                    "url": "https://nxvenue.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                     69\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Global Scholar Challenge",
-                    "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                     286\n                ",
+                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     335\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
@@ -56,7 +56,7 @@
             "challengesUpcoming": [
                 {
                     "title": "Scan, Pay and Go!",
-                    "url": "/challenges/hiring/scan-pay-go-2024/",
+                    "url": "/pt-br/challenges/hiring/scan-pay-go-2024/",
                     "noOfRegistrations": "\n                     As per market standards\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Jan  6, 12:30 PM UTC (UTC)",
@@ -67,10 +67,12 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
                 "method": "GET",
-                "retryCount": 0,
-                "errorMessages": [],
+                "retryCount": 1,
+                "errorMessages": [
+                    "Error: Navigation timed out after 60 seconds.\n    at handleRequestTimeout (/home/myuser/node_modules/@crawlee/core/crawlers/crawler_utils.js:13:11)\n    at PuppeteerCrawler._handleNavigationTimeout (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:360:46)\n    at PuppeteerCrawler._handleNavigation (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:333:24)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/browser/internals/browser-crawler.js:259:13)\n    at async PuppeteerCrawler._runRequestHandler (/home/myuser/node_modules/@crawlee/puppeteer/internals/puppeteer-crawler.js:109:9)\n    at async wrap (/home/myuser/node_modules/@apify/timeout/cjs/index.cjs:54:21)"
+                ],
                 "statusCode": 200
             }
         }
