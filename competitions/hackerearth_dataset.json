@@ -6,48 +6,48 @@
             "challengesOngoing": [
                 {
                     "title": "What it takes to be a Data Scientist at Microsoft?",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/what-it-takes-to-be-a-data-scientist-at-microsoft/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/what-it-takes-to-be-a-data-scientist-at-microsoft/",
+                    "noOfRegistrations": "\n                     436\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736591400",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://analog-part2.hackerearth.com/",
+                    "noOfRegistrations": "\n                     1068\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736755140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Data Science using Python",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/data-science-using-python/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/data-science-using-python/",
+                    "noOfRegistrations": "\n                     242\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1736946000",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://nxvenue.hackerearth.com/",
+                    "noOfRegistrations": "\n                     92\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Indegene Hackathon",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/indegene-hackathon/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
+                    "noOfRegistrations": "\n                     426\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737915900",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Global Scholar Challenge",
-                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     804\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
@@ -56,7 +56,7 @@
             "challengesUpcoming": [
                 {
                     "title": "Scan, Pay and Go!",
-                    "url": "/pt-br/challenges/hiring/scan-pay-go-2024/",
+                    "url": "/challenges/hiring/scan-pay-go-2024/",
                     "noOfRegistrations": "\n                     As per market standards\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Jan  6, 12:30 PM UTC (UTC)",
@@ -67,7 +67,7 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
