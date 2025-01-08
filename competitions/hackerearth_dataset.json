@@ -2,8 +2,65 @@
     "data": [
         {
             "url": "https://www.hackerearth.com/challenges/",
-            "pageTitle": "HackerEarth Guardian",
-            "challengesOngoing": [],
+            "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
+            "challengesOngoing": [
+                {
+                    "title": "Scan, Pay and Go!",
+                    "url": "/challenges/hiring/scan-pay-go-2024/",
+                    "noOfRegistrations": "\n                     As per market standards\n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "1737311340",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "What it takes to be a Data Scientist at Microsoft?",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/what-it-takes-to-be-a-data-scientist-at-microsoft/",
+                    "noOfRegistrations": "\n                     814\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1736591400",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Analog Kairos Hackathon - 2",
+                    "url": "https://analog-part2.hackerearth.com/",
+                    "noOfRegistrations": "\n                     1171\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1736755140",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Data Science using Python",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/data-science-using-python/",
+                    "noOfRegistrations": "\n                     465\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1736946000",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Nx Venue Innovation Hackathon",
+                    "url": "https://nxvenue.hackerearth.com/",
+                    "noOfRegistrations": "\n                     113\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1737791700",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Indegene Hackathon",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
+                    "noOfRegistrations": "\n                     700\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1737915900",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Global Scholar Challenge",
+                    "url": "/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     983\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "1737916140",
+                    "platform": "Hackerearth"
+                }
+            ],
             "challengesUpcoming": [],
             "#error": false,
             "#debug": {
@@ -13,7 +70,7 @@
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
-                "statusCode": 471
+                "statusCode": 200
             }
         }
     ]
