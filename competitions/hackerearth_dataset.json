@@ -6,7 +6,7 @@
             "challengesOngoing": [
                 {
                     "title": "Scan, Pay and Go!",
-                    "url": "/pt-br/challenges/hiring/scan-pay-go-2024/",
+                    "url": "/challenges/hiring/scan-pay-go-2024/",
                     "noOfRegistrations": "\n                     As per market standards\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "1737311340",
@@ -14,40 +14,40 @@
                 },
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://nxvenue.hackerearth.com/",
+                    "noOfRegistrations": "\n                     299\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Indegene Hackathon",
-                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/indegene-hackathon/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
+                    "noOfRegistrations": "\n                     1584\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737915900",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Global Scholar Challenge",
-                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                     1414\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://analog-part2.hackerearth.com/",
+                    "noOfRegistrations": "\n                     1350\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737964740",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Mode AI Agent Hackathon V2",
-                    "url": "https://intern2ceo.hackerearth.com/pt-br/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "url": "https://intern2ceo.hackerearth.com/",
+                    "noOfRegistrations": "\n                     297\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738385940",
                     "platform": "Hackerearth"
@@ -58,7 +58,7 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
