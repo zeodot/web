@@ -7,7 +7,7 @@
                 {
                     "title": "Nx Venue Innovation Hackathon",
                     "url": "https://nxvenue.hackerearth.com/",
-                    "noOfRegistrations": "\n                     501\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
@@ -15,7 +15,7 @@
                 {
                     "title": "Global Scholar Challenge",
                     "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                     1654\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
@@ -23,7 +23,7 @@
                 {
                     "title": "Analog Kairos Hackathon - 2",
                     "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                     1393\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737964740",
                     "platform": "Hackerearth"
@@ -31,7 +31,7 @@
                 {
                     "title": "Indegene Hackathon",
                     "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
-                    "noOfRegistrations": "\n                     1747\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738175100",
                     "platform": "Hackerearth"
@@ -39,13 +39,38 @@
                 {
                     "title": "Mode AI Agent Hackathon V2",
                     "url": "https://intern2ceo.hackerearth.com/",
-                    "noOfRegistrations": "\n                     401\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738385940",
                     "platform": "Hackerearth"
                 }
             ],
-            "challengesUpcoming": [],
+            "challengesUpcoming": [
+                {
+                    "title": "Jackpot.bet Frontend challenge",
+                    "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
+                    "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Jackpot.bet 2D Game Developer challenge",
+                    "url": "/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
+                    "noOfRegistrations": "\n                     40 to 52 LPA\n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Jackpot.bet Backend challenge",
+                    "url": "/challenges/hiring/jackpotbet-back-end-developer-go/",
+                    "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                }
+            ],
             "#error": false,
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
