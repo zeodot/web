@@ -7,7 +7,7 @@
                 {
                     "title": "Nx Venue Innovation Hackathon",
                     "url": "https://nxvenue.hackerearth.com/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     668\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
@@ -15,7 +15,7 @@
                 {
                     "title": "Global Scholar Challenge",
                     "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     1738\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
@@ -23,7 +23,7 @@
                 {
                     "title": "Analog Kairos Hackathon - 2",
                     "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     1421\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737964740",
                     "platform": "Hackerearth"
@@ -31,7 +31,7 @@
                 {
                     "title": "Indegene Hackathon",
                     "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     1857\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738175100",
                     "platform": "Hackerearth"
@@ -39,7 +39,7 @@
                 {
                     "title": "Mode AI Agent Hackathon V2",
                     "url": "https://intern2ceo.hackerearth.com/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     473\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738385940",
                     "platform": "Hackerearth"
@@ -47,7 +47,7 @@
             ],
             "challengesUpcoming": [
                 {
-                    "title": "Jackpot.bet Frontend challenge",
+                    "title": "Jackpot.bet Frontend challenge - up to 45 LPA",
                     "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
                     "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
                     "challengeType": "HIRING",
@@ -55,7 +55,7 @@
                     "platform": "Hackerearth"
                 },
                 {
-                    "title": "Jackpot.bet 2D Game Developer challenge",
+                    "title": "Jackpot.bet 2D Game Developer challenge - up to 52 LPA",
                     "url": "/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
                     "noOfRegistrations": "\n                     40 to 52 LPA\n                ",
                     "challengeType": "HIRING",
@@ -63,9 +63,9 @@
                     "platform": "Hackerearth"
                 },
                 {
-                    "title": "Jackpot.bet Backend challenge",
+                    "title": "Jackpot.bet Backend challenge - up to 60 LPA",
                     "url": "/challenges/hiring/jackpotbet-back-end-developer-go/",
-                    "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
+                    "noOfRegistrations": "\n                     45 to 60 LPA\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
