@@ -6,40 +6,40 @@
             "challengesOngoing": [
                 {
                     "title": "Nx Venue Innovation Hackathon",
-                    "url": "https://nxvenue.hackerearth.com/",
-                    "noOfRegistrations": "\n                     726\n                ",
+                    "url": "https://nxvenue.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737791700",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Global Scholar Challenge",
-                    "url": "/challenges/competitive/global-scholar-challenge/",
-                    "noOfRegistrations": "\n                     1773\n                ",
+                    "url": "/pt-br/challenges/competitive/global-scholar-challenge/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "1737916140",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Analog Kairos Hackathon - 2",
-                    "url": "https://analog-part2.hackerearth.com/",
-                    "noOfRegistrations": "\n                     1439\n                ",
+                    "url": "https://analog-part2.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1737964740",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Indegene Hackathon",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/indegene-hackathon/",
-                    "noOfRegistrations": "\n                     1905\n                ",
+                    "url": "https://www.hackerearth.com/pt-br/challenges/hackathon/indegene-hackathon/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738175100",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "Mode AI Agent Hackathon V2",
-                    "url": "https://intern2ceo.hackerearth.com/",
-                    "noOfRegistrations": "\n                     505\n                ",
+                    "url": "https://intern2ceo.hackerearth.com/pt-br/",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1738385940",
                     "platform": "Hackerearth"
@@ -48,7 +48,7 @@
             "challengesUpcoming": [
                 {
                     "title": "Jackpot.bet Frontend challenge - up to 45 LPA",
-                    "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
+                    "url": "/pt-br/challenges/hiring/jb-hc-front-end-developer-nextjs/",
                     "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
@@ -56,7 +56,7 @@
                 },
                 {
                     "title": "Jackpot.bet 2D Game Developer challenge - up to 52 LPA",
-                    "url": "/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
+                    "url": "/pt-br/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
                     "noOfRegistrations": "\n                     40 to 52 LPA\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
@@ -64,7 +64,7 @@
                 },
                 {
                     "title": "Jackpot.bet Backend challenge - up to 60 LPA",
-                    "url": "/challenges/hiring/jackpotbet-back-end-developer-go/",
+                    "url": "/pt-br/challenges/hiring/jackpotbet-back-end-developer-go/",
                     "noOfRegistrations": "\n                     45 to 60 LPA\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
@@ -75,7 +75,7 @@
             "#debug": {
                 "requestId": "WnjqkcABr8VVCez",
                 "url": "https://www.hackerearth.com/challenges/",
-                "loadedUrl": "https://www.hackerearth.com/challenges/",
+                "loadedUrl": "https://www.hackerearth.com/pt-br/challenges/",
                 "method": "GET",
                 "retryCount": 0,
                 "errorMessages": [],
