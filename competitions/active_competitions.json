@@ -18,7 +18,7 @@
         {
             "title": "AI Mathematical Olympiad - Progress Prize 2",
             "url": "https://www.kaggle.com/competitions/86023",
-            "noOfRegistrations": 1171,
+            "noOfRegistrations": 1185,
             "challengeType": "Featured",
             "numberBeforeMinus": "04/01/2025",
             "reward": "2,117,152 Usd",
@@ -32,7 +32,7 @@
         {
             "title": "Konwinski Prize",
             "url": "https://www.kaggle.com/competitions/84795",
-            "noOfRegistrations": 206,
+            "noOfRegistrations": 209,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/12/2025",
             "reward": "1,225,000 Usd",
@@ -45,7 +45,7 @@
         {
             "title": "NeurIPS 2024 - Lux AI Season 3",
             "url": "https://www.kaggle.com/competitions/86411",
-            "noOfRegistrations": 351,
+            "noOfRegistrations": 358,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/10/2025",
             "reward": "50,000 Usd",
@@ -60,7 +60,7 @@
         {
             "title": "LLMs - You Can't Please Them All",
             "url": "https://www.kaggle.com/competitions/83035",
-            "noOfRegistrations": 1042,
+            "noOfRegistrations": 1054,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/04/2025",
             "reward": "50,000 Usd",
@@ -74,7 +74,7 @@
         {
             "title": "FIDE & Google Efficient Chess AI Challenge",
             "url": "https://www.kaggle.com/competitions/86524",
-            "noOfRegistrations": 1023,
+            "noOfRegistrations": 1037,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/11/2025",
             "reward": "50,000 Usd",
@@ -89,7 +89,7 @@
         {
             "title": "CZII - CryoET Object Identification",
             "url": "https://www.kaggle.com/competitions/84969",
-            "noOfRegistrations": 865,
+            "noOfRegistrations": 871,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/05/2025",
             "reward": "75,000 Usd",
@@ -104,7 +104,7 @@
         {
             "title": "WSDM Cup - Multilingual Chatbot Arena",
             "url": "https://www.kaggle.com/competitions/86946",
-            "noOfRegistrations": 906,
+            "noOfRegistrations": 911,
             "challengeType": "Featured",
             "numberBeforeMinus": "02/03/2025",
             "reward": "50,000 Usd",
@@ -112,20 +112,6 @@
                 "languages",
                 "text conversation",
                 "accuracy score"
-            ],
-            "platform": "Kaggle"
-        },
-        {
-            "title": "Santa 2024 - The Perplexity Permutation Puzzle",
-            "url": "https://www.kaggle.com/competitions/88046",
-            "noOfRegistrations": 1500,
-            "challengeType": "Featured",
-            "numberBeforeMinus": "01/31/2025",
-            "reward": "50,000 Usd",
-            "tags": [
-                "optimization",
-                "holidays and cultural events",
-                "custom metric"
             ],
             "platform": "Kaggle"
         }
