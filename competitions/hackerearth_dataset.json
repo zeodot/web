@@ -3,16 +3,7 @@
         {
             "url": "https://www.hackerearth.com/challenges/",
             "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
-            "challengesOngoing": [
-                {
-                    "title": "Mode AI Agent Hackathon V2",
-                    "url": "https://intern2ceo.hackerearth.com/",
-                    "noOfRegistrations": "\n                    \n                ",
-                    "challengeType": "HACKATHON",
-                    "numberBeforeMinus": "1738385940",
-                    "platform": "Hackerearth"
-                }
-            ],
+            "challengesOngoing": [],
             "challengesUpcoming": [
                 {
                     "title": "Diebold Nixdorf Hiring Challenge 2025",
