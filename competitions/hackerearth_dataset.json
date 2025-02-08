@@ -6,11 +6,11 @@
             "challengesOngoing": [],
             "challengesUpcoming": [
                 {
-                    "title": "Diebold Nixdorf Hiring Challenge 2025",
-                    "url": "/challenges/hiring/diebold-nixdorf-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     \n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb  7, 12:30 PM UTC (UTC)",
+                    "title": "Emerson Test & Measurement (NI is Now part of Emerson) - Software Engineer Hiring Challenge 2025",
+                    "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
+                    "noOfRegistrations": "\n                     180\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
@@ -35,6 +35,14 @@
                     "noOfRegistrations": "\n                     45 to 60 LPA\n                ",
                     "challengeType": "HIRING",
                     "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Diebold Nixdorf Hiring Challenge 2025",
+                    "url": "/challenges/hiring/diebold-nixdorf-hiring-challenge-2025/",
+                    "noOfRegistrations": "\n                     \n                ",
+                    "challengeType": "HIRING",
+                    "numberBeforeMinus": "Feb 14, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 }
             ],
