@@ -3,22 +3,13 @@
         {
             "url": "https://www.hackerearth.com/challenges/",
             "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
-            "challengesOngoing": [],
-            "challengesUpcoming": [
-                {
-                    "title": "Emerson Test & Measurement (NI is Now part of Emerson) - Software Engineer Hiring Challenge 2025",
-                    "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     1124\n                ",
-                    "challengeType": "COMPETITIVE",
-                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
+            "challengesOngoing": [
                 {
                     "title": "Jackpot.bet Frontend challenge - up to 45 LPA",
                     "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
                     "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
                     "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "numberBeforeMinus": "1740335340",
                     "platform": "Hackerearth"
                 },
                 {
@@ -26,7 +17,7 @@
                     "url": "/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
                     "noOfRegistrations": "\n                     40 to 52 LPA\n                ",
                     "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "numberBeforeMinus": "1740335340",
                     "platform": "Hackerearth"
                 },
                 {
@@ -34,13 +25,31 @@
                     "url": "/challenges/hiring/jackpotbet-back-end-developer-go/",
                     "noOfRegistrations": "\n                     45 to 60 LPA\n                ",
                     "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb 12, 12:30 PM UTC (UTC)",
+                    "numberBeforeMinus": "1740335340",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "ShikshaLokam",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/invoked-4/",
+                    "noOfRegistrations": "\n                     351\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1740335340",
+                    "platform": "Hackerearth"
+                }
+            ],
+            "challengesUpcoming": [
+                {
+                    "title": "NI Software Engineer Hiring Challenge 2025",
+                    "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
+                    "noOfRegistrations": "\n                     1352\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
                     "title": "PBC Hackathon '25",
                     "url": "https://www.hackerearth.com/challenges/hackathon/pbc-hackathon-25/",
-                    "noOfRegistrations": "\n                     118\n                ",
+                    "noOfRegistrations": "\n                     254\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "Feb 14, 05:00 AM UTC (UTC)",
                     "platform": "Hackerearth"
