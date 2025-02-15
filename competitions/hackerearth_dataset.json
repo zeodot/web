@@ -5,6 +5,14 @@
             "pageTitle": "  \n\n    Programming Challenges, Coding competitions, and Hackathons\n\n | HackerEarth  ",
             "challengesOngoing": [
                 {
+                    "title": "PBC Hackathon '25",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/pbc-hackathon-25/",
+                    "noOfRegistrations": "\n                     429\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1740150000",
+                    "platform": "Hackerearth"
+                },
+                {
                     "title": "Jackpot.bet Frontend challenge - up to 45 LPA",
                     "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
                     "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
@@ -31,7 +39,7 @@
                 {
                     "title": "ShikshaLokam",
                     "url": "https://www.hackerearth.com/challenges/hackathon/invoked-4/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     668\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1740335340",
                     "platform": "Hackerearth"
@@ -41,17 +49,9 @@
                 {
                     "title": "NI Software Engineer Hiring Challenge 2025",
                     "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                    \n                ",
+                    "noOfRegistrations": "\n                     1572\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "PBC Hackathon '25",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/pbc-hackathon-25/",
-                    "noOfRegistrations": "\n                    \n                ",
-                    "challengeType": "HACKATHON",
-                    "numberBeforeMinus": "Feb 14, 05:00 AM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
@@ -59,7 +59,15 @@
                     "url": "/challenges/hiring/diebold-nixdorf-hiring-challenge-2025/",
                     "noOfRegistrations": "\n                     \n                ",
                     "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb 14, 12:30 PM UTC (UTC)",
+                    "numberBeforeMinus": "Feb 21, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "WiSE (Women in Software Engineering)",
+                    "url": "/challenges/competitive/texas-instruments-wise-hackathon/",
+                    "noOfRegistrations": "\n                     51\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 }
             ],
