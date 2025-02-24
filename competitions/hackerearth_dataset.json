@@ -7,41 +7,9 @@
                 {
                     "title": "Solidus AI Tech: Building Your Smart Agent",
                     "url": "https://agentforge.hackerearth.com/",
-                    "noOfRegistrations": "\n                     64\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1740902100",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "Jackpot.bet Frontend challenge - up to 45 LPA",
-                    "url": "/challenges/hiring/jb-hc-front-end-developer-nextjs/",
-                    "noOfRegistrations": "\n                     35 to 45 LPA\n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "1740335340",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "Jackpot.bet 2D Game Developer challenge - up to 52 LPA",
-                    "url": "/challenges/hiring/jackpotbet-backend-developer-senior-2d-game-developer-phaserjs-or-rive/",
-                    "noOfRegistrations": "\n                     40 to 52 LPA\n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "1740335340",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "Jackpot.bet Backend challenge - up to 60 LPA",
-                    "url": "/challenges/hiring/jackpotbet-back-end-developer-go/",
-                    "noOfRegistrations": "\n                     45 to 60 LPA\n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "1740335340",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "ShikshaLokam",
-                    "url": "https://www.hackerearth.com/challenges/hackathon/invoked-4/",
-                    "noOfRegistrations": "\n                     1107\n                ",
-                    "challengeType": "HACKATHON",
-                    "numberBeforeMinus": "1740335340",
                     "platform": "Hackerearth"
                 }
             ],
@@ -49,9 +17,17 @@
                 {
                     "title": "NI Software Engineer Hiring Challenge 2025",
                     "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     2774\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "DSA Chronicles",
+                    "url": "/challenges/competitive/dsa-chronicles/",
+                    "noOfRegistrations": "\n                    \n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "Mar  1, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
@@ -65,7 +41,7 @@
                 {
                     "title": "WiSE (Women in Software Engineering)",
                     "url": "/challenges/competitive/texas-instruments-wise-hackathon/",
-                    "noOfRegistrations": "\n                     5625\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
@@ -73,7 +49,7 @@
                 {
                     "title": "Global Scholar Challenge (2nd Edition)",
                     "url": "/challenges/competitive/global-scholar-challenge-2025/",
-                    "noOfRegistrations": "\n                     111\n                ",
+                    "noOfRegistrations": "\n                    \n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Mar 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
