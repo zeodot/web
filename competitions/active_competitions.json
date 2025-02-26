@@ -16,9 +16,24 @@
             "platform": "Kaggle"
         },
         {
+            "title": "Drawing with LLMs",
+            "url": "https://www.kaggle.com/competitions/89659",
+            "noOfRegistrations": 5,
+            "challengeType": "Featured",
+            "numberBeforeMinus": "05/27/2025",
+            "reward": "50,000 Usd",
+            "tags": [
+                "art",
+                "nlp",
+                "image generator",
+                "custom metric"
+            ],
+            "platform": "Kaggle"
+        },
+        {
             "title": "AI Mathematical Olympiad - Progress Prize 2",
             "url": "https://www.kaggle.com/competitions/86023",
-            "noOfRegistrations": 1614,
+            "noOfRegistrations": 1641,
             "challengeType": "Featured",
             "numberBeforeMinus": "04/01/2025",
             "reward": "2,117,152 Usd",
@@ -32,7 +47,7 @@
         {
             "title": "March Machine Learning Mania 2025",
             "url": "https://www.kaggle.com/competitions/91497",
-            "noOfRegistrations": 236,
+            "noOfRegistrations": 260,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/20/2025",
             "reward": "50,000 Usd",
@@ -46,7 +61,7 @@
         {
             "title": "Konwinski Prize",
             "url": "https://www.kaggle.com/competitions/84795",
-            "noOfRegistrations": 415,
+            "noOfRegistrations": 421,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/12/2025",
             "reward": "1,225,000 Usd",
@@ -73,7 +88,7 @@
         {
             "title": "NeurIPS 2024 - Lux AI Season 3",
             "url": "https://www.kaggle.com/competitions/86411",
-            "noOfRegistrations": 603,
+            "noOfRegistrations": 606,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/10/2025",
             "reward": "50,000 Usd",
@@ -103,7 +118,7 @@
         {
             "title": "LLMs - You Can't Please Them All",
             "url": "https://www.kaggle.com/competitions/83035",
-            "noOfRegistrations": 1666,
+            "noOfRegistrations": 1660,
             "challengeType": "Featured",
             "numberBeforeMinus": "03/04/2025",
             "reward": "50,000 Usd",
