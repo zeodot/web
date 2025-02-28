@@ -7,9 +7,25 @@
                 {
                     "title": "Solidus AI Tech: Building Your Smart Agent",
                     "url": "https://agentforge.hackerearth.com/",
-                    "noOfRegistrations": "\n                     129\n                ",
+                    "noOfRegistrations": "\n                     145\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1740902100",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "OpenServ AI Agent Hackathon",
+                    "url": "https://openservai.hackerearth.com/",
+                    "noOfRegistrations": "\n                     133\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1741841700",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "Meesho Open Campus Recruitment 2025",
+                    "url": "https://www.hackerearth.com/challenges/hackathon/meesho-open-campus-recruitment-2025/",
+                    "noOfRegistrations": "\n                     24085\n                ",
+                    "challengeType": "HACKATHON",
+                    "numberBeforeMinus": "1741973400",
                     "platform": "Hackerearth"
                 }
             ],
@@ -17,7 +33,7 @@
                 {
                     "title": "NI Software Engineer Hiring Challenge 2025",
                     "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     3534\n                ",
+                    "noOfRegistrations": "\n                     3752\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
@@ -25,17 +41,9 @@
                 {
                     "title": "DSA Chronicles",
                     "url": "/challenges/competitive/dsa-chronicles/",
-                    "noOfRegistrations": "\n                     48658\n                ",
+                    "noOfRegistrations": "\n                     49056\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Mar  1, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "OpenServ AI Agent Hackathon",
-                    "url": "https://openservai.hackerearth.com/",
-                    "noOfRegistrations": "\n                     5\n                ",
-                    "challengeType": "HACKATHON",
-                    "numberBeforeMinus": "Feb 27, 05:00 AM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
@@ -49,7 +57,7 @@
                 {
                     "title": "WiSE (Women in Software Engineering)",
                     "url": "/challenges/competitive/texas-instruments-wise-hackathon/",
-                    "noOfRegistrations": "\n                     7763\n                ",
+                    "noOfRegistrations": "\n                     8588\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
@@ -57,7 +65,7 @@
                 {
                     "title": "Global Scholar Challenge (2nd Edition)",
                     "url": "/challenges/competitive/global-scholar-challenge-2025/",
-                    "noOfRegistrations": "\n                     1365\n                ",
+                    "noOfRegistrations": "\n                     2110\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Mar 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
