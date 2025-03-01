@@ -7,15 +7,31 @@
                 {
                     "title": "Solidus AI Tech: Building Your Smart Agent",
                     "url": "https://agentforge.hackerearth.com/",
-                    "noOfRegistrations": "\n                     145\n                ",
+                    "noOfRegistrations": "\n                     162\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1740902100",
                     "platform": "Hackerearth"
                 },
                 {
+                    "title": "NI Software Engineer Hiring Challenge 2025",
+                    "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
+                    "noOfRegistrations": "\n                     248\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "1740940140",
+                    "platform": "Hackerearth"
+                },
+                {
+                    "title": "WiSE (Women in Software Engineering)",
+                    "url": "/challenges/competitive/texas-instruments-wise-hackathon/",
+                    "noOfRegistrations": "\n                     546\n                ",
+                    "challengeType": "COMPETITIVE",
+                    "numberBeforeMinus": "1740940140",
+                    "platform": "Hackerearth"
+                },
+                {
                     "title": "OpenServ AI Agent Hackathon",
                     "url": "https://openservai.hackerearth.com/",
-                    "noOfRegistrations": "\n                     133\n                ",
+                    "noOfRegistrations": "\n                     253\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1741841700",
                     "platform": "Hackerearth"
@@ -23,7 +39,7 @@
                 {
                     "title": "Meesho Open Campus Recruitment 2025",
                     "url": "https://www.hackerearth.com/challenges/hackathon/meesho-open-campus-recruitment-2025/",
-                    "noOfRegistrations": "\n                     24085\n                ",
+                    "noOfRegistrations": "\n                     53930\n                ",
                     "challengeType": "HACKATHON",
                     "numberBeforeMinus": "1741973400",
                     "platform": "Hackerearth"
@@ -31,41 +47,17 @@
             ],
             "challengesUpcoming": [
                 {
-                    "title": "NI Software Engineer Hiring Challenge 2025",
-                    "url": "/challenges/competitive/ni-software-engineer-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     3752\n                ",
-                    "challengeType": "COMPETITIVE",
-                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
                     "title": "DSA Chronicles",
                     "url": "/challenges/competitive/dsa-chronicles/",
-                    "noOfRegistrations": "\n                     49056\n                ",
+                    "noOfRegistrations": "\n                     49371\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Mar  1, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
                 },
                 {
-                    "title": "Diebold Nixdorf Hiring Challenge 2025",
-                    "url": "/challenges/hiring/diebold-nixdorf-hiring-challenge-2025/",
-                    "noOfRegistrations": "\n                     \n                ",
-                    "challengeType": "HIRING",
-                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
-                    "title": "WiSE (Women in Software Engineering)",
-                    "url": "/challenges/competitive/texas-instruments-wise-hackathon/",
-                    "noOfRegistrations": "\n                     8588\n                ",
-                    "challengeType": "COMPETITIVE",
-                    "numberBeforeMinus": "Feb 28, 12:30 PM UTC (UTC)",
-                    "platform": "Hackerearth"
-                },
-                {
                     "title": "Global Scholar Challenge (2nd Edition)",
                     "url": "/challenges/competitive/global-scholar-challenge-2025/",
-                    "noOfRegistrations": "\n                     2110\n                ",
+                    "noOfRegistrations": "\n                     2522\n                ",
                     "challengeType": "COMPETITIVE",
                     "numberBeforeMinus": "Mar 28, 12:30 PM UTC (UTC)",
                     "platform": "Hackerearth"
